@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Poln4
-- 👀 I’m interested in computational linguistics
-- 🌱 I’m currently learning it on my own, step by step.
+- 👋 Hi, I’m Paulina Valenzuela Lagos.
+- 👀 I’m interested in Computational Linguistics, Hispanic Linguistics, and languages.
+- 🌱 I’m currently learning programming on my own, step by step.
 - 💞️ I’m looking to collaborate on NLP in the near future.
 - 📫 How to reach me: paoo.ss@gmail.com
 
