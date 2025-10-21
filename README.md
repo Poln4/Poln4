@@ -4,6 +4,10 @@
 📍 Based in Taipei, Taiwan  
 🔗 [LinkedIn](https://linkedin.com/in/paulina-valenzuela-lagos) • [ORCID](https://orcid.org/0009-0006-1635-7823) • [Email](mailto:paoo.ss@gmail.com)
 
+## 🧠 About Me  
+I’m a computational linguist with expertise in Hispanic linguistics and interest in applying machine learning & NLP to language learning and readability models. My background is in linguistics and education, and I'm building software tools to support language learning, educational technologies, and multilingual NLP research.
+
+
 ### 🧰 Languages & Tools
 - **Programming:** Python, R, C/C++, SQL, HTML, CSS  
 - **ML & NLP:** spaCy, scikit-learn, NLTK, XGBoost, transformers (BETO, MarIA)  
@@ -17,9 +21,14 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
 
 ### 🎓 Research Interests
-- NLP for Education and Language Learning  
-- Text Readability & Linguistic Complexity  
-- Multilingual & Low-Resource Language Processing  
+- NLP for language learning & educational technologies  
+- Text readability and complexity modelling  
+- Multilingual NLP  
+- Hispanic linguistics & computational methods
+
+## 🤝 Collaboration & Opportunities  
+Open to collaborating on open-source NLP/linguistics projects, especially those involving language learning or teaching.  
+Feel free to reach out via email.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poln4&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poln4&layout=compact)
