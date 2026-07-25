@@ -9,7 +9,7 @@ I’m a computational linguist with expertise in Hispanic linguistics and intere
 
 ### 🚀 Featured Projects & Initiatives
 
-* **The Carla Model:** A hybrid computational architecture for assessing Spanish text readability, combining traditional linguistic features with transformer embeddings (BERTIN, BETO, MarIA). This required designing a robust extraction and cleaning pipeline to process a custom corpus of 800+ Spanish texts.
+* **[The Carla Model](https://carla-esp.streamlit.app):** A hybrid computational architecture for assessing Spanish text readability, combining traditional linguistic features with transformer embeddings (BERTIN, BETO, MarIA). This required designing a robust extraction and cleaning pipeline to process a custom corpus of 800+ Spanish texts.
 * **[Reading Club Website](https://poln4.pythonanywhere.com):** An initiative focused on extensive reading (ER) methodologies and the pedagogical use of graded readers to help learners build sustainable, pleasure-based reading ecosystems. 
 * **[ZebraUp](https://github.com/Poln4/ZebraUp):** A mhealth web application built with Dart for the "zebras" of medicine. The app exists to make short medical consultations more useful, helping patients arrive with concrete data instead of blurred memories.
 * **NAS Project:** A Python-based system designed to acknowledge and respect diverse name structures and preferences.
