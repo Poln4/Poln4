@@ -14,6 +14,8 @@ I’m a computational linguist with expertise in Hispanic linguistics and intere
 * **[ZebraUp](https://github.com/Poln4/ZebraUp):** A mhealth web application built with Dart for the "zebras" of medicine. The app exists to make short medical consultations more useful, helping patients arrive with concrete data instead of blurred memories.
 * **NAS Project:** A Python-based system designed to acknowledge and respect diverse name structures and preferences.
 
+More coming... 
+
 ### 🧰 Languages & Tools
 - **Programming:** Python, R, C/C++, SQL, HTML, CSS  
 - **ML & NLP:** spaCy, scikit-learn, NLTK, XGBoost, transformers (BETO, MarIA)  
