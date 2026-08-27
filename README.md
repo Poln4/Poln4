@@ -1,4 +1,4 @@
-# Hi, I'm Paulina (范寶琳) 👋
+# Hi, I'm Paulina (寶琳) 👋
 
 ### Solo Engineer · Computational Linguist · NTUST Ph.D. Candidate (Taipei, Taiwan)
 
