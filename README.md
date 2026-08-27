@@ -11,17 +11,17 @@
 
 ## 🚀 Key Projects
 
-### 🧠 [CARLA — Hybrid NLP Readability Engine](https://paulinavl.netlify.app)
+### 🧠 [CARLA — Hybrid NLP Readability Engine](https://carla-esp.streamlit.app)
 * **What it is:** Production-grade Spanish text readability classifier (CEFR A1–C2) combining transformer embeddings (**BERTin, BETO, MarIA**) with **238 psycholinguistic & syntactic features** inside a **CatBoost** ensemble.
 * **Impact:** Achieved **0.963 QWK** and **~87% multi-class accuracy** on 822 benchmarked texts (+0.12 QWK lift over vanilla fine-tuning).
 * **Stack:** `Python` · `Hugging Face` · `CatBoost` · `spaCy` · `Streamlit` · `PyTest`
 
-### 🦓 [ZebraUp & ZebraPace — Local-First mHealth Platforms](https://zebraup-beta.netlify.app)(https://zebrapace.netlify.app)
+### 🦓 [ZebraUp](https://zebraup-beta.netlify.app) & [ZebraPace](https://zebrapace.netlify.app) — Local-First mHealth Platforms 
 * **What it is:** Digital health and pacing systems designed for multi-systemic chronic conditions (Ehlers-Danlos, Dysautonomia, PEM).
 * **Architecture:** Built with a **local-first Flutter/Dart architecture** and `drift/SQLite` to ensure 100% patient data privacy without mandatory cloud dependencies. Generates structured clinical PDF reports mapped to 2017 international criteria.
 * **Stack:** `Flutter` · `Dart` · `drift / SQLite` · `Streamlit` · `REST API`
 
-### 🌏 [CKJ-ESP & Tone Stamp — Comparative Linguistic Bridges](https://ckj-esp.netlify.app)(https://tonestamp.netlify.app)
+### 🌏 [CKJ-ESP](https://ckj-esp.netlify.app) & [Tone Stamp](https://tonestamp.netlify.app) — Comparative Linguistic Bridges
 * **What it is:** A Spanish-first comparative dictionary connecting **Mandarin (Taiwan), Korean, and Japanese**, paired with a visual character tone-mapping tool and interactive TOCFL flashcard engine.
 * **Stack:** `JavaScript` · `HTML5 / CSS3` · `Open Linguistic Data (TOCFL, KRDICT, JMdict)`
 
