@@ -1,43 +1,47 @@
-# 👋 Hi, I’m Paulina Valenzuela Lagos
-**Ph.D. Candidate in Digital Learning @ NTUST | NLP Researcher | Linguist | Educator**
+# Hi, I'm Paulina (范寶琳) 👋
 
-📍 Based in Taipei, Taiwan  
-🔗 [LinkedIn](https://linkedin.com/in/paulina-valenzuela-lagos) • [ORCID](https://orcid.org/0009-0006-1635-7823) • [Email](mailto:paoo.ss@gmail.com)
+### Solo Engineer · Computational Linguist · NTUST Ph.D. Candidate (Taipei, Taiwan)
 
-## 🧠 About Me  
-I’m a computational linguist with expertise in Hispanic linguistics and interest in applying machine learning & NLP to language learning and readability models. My background is in linguistics and education, and I'm building software tools to support language learning, educational technologies, and multilingual NLP research.
+> **"Making the invisible legible"** — I build privacy-first digital health platforms and applied NLP architectures that translate complex, unseen systems into human-relatable insights. Every tool here was architected, coded, tested, and shipped solo.
 
-### 🚀 Featured Projects & Initiatives
+🌐 **Portfolio & Live Demos:** [paulinavl.netlify.app](https://paulinavl.netlify.app)  
+📫 **Contact:** [paulinavl@icloud.com](mailto:paulinavl@icloud.com) · [LinkedIn](https://linkedin.com/in/paulinavl)
 
-* **[The Carla Model](https://carla-esp.streamlit.app):** A hybrid computational architecture for assessing Spanish text readability, combining traditional linguistic features with transformer embeddings (BERTIN, BETO, MarIA). This required designing a robust extraction and cleaning pipeline to process a custom corpus of 800+ Spanish texts.
-* **[Reading Club Website](https://poln4.pythonanywhere.com):** An initiative focused on extensive reading (ER) methodologies and the pedagogical use of graded readers to help learners build sustainable, pleasure-based reading ecosystems. 
-* **[ZebraUp](https://github.com/Poln4/ZebraUp):** A mhealth web application built with Dart for the "zebras" of medicine. The app exists to make short medical consultations more useful, helping patients arrive with concrete data instead of blurred memories.
-* **NAS Project:** A Python-based system designed to acknowledge and respect diverse name structures and preferences.
+---
 
-More coming... 
+## 🚀 Key Projects
 
-### 🧰 Languages & Tools
-- **Programming:** Python, R, C/C++, SQL, HTML, CSS  
-- **ML & NLP:** spaCy, scikit-learn, NLTK, XGBoost, transformers (BETO, MarIA)  
-- **Data Analysis:** pandas, NumPy, corpus linguistics, readability modeling  
-- **Web & Dev Tools:** Flask, Git/GitHub, Jupyter, VS Code  
-- **EdTech:** Moodle, H5P, AI-assisted feedback tools  
+### 🧠 [CARLA — Hybrid NLP Readability Engine](https://paulinavl.netlify.app)
+* **What it is:** Production-grade Spanish text readability classifier (CEFR A1–C2) combining transformer embeddings (**BERTin, BETO, MarIA**) with **238 psycholinguistic & syntactic features** inside a **CatBoost** ensemble.
+* **Impact:** Achieved **0.963 QWK** and **~87% multi-class accuracy** on 822 benchmarked texts (+0.12 QWK lift over vanilla fine-tuning).
+* **Stack:** `Python` · `Hugging Face` · `CatBoost` · `spaCy` · `Streamlit` · `PyTest`
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-orange)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+### 🦓 [ZebraUp & ZebraPace — Local-First mHealth Platforms](https://zebraup-beta.netlify.app)(https://zebrapace.netlify.app)
+* **What it is:** Digital health and pacing systems designed for multi-systemic chronic conditions (Ehlers-Danlos, Dysautonomia, PEM).
+* **Architecture:** Built with a **local-first Flutter/Dart architecture** and `drift/SQLite` to ensure 100% patient data privacy without mandatory cloud dependencies. Generates structured clinical PDF reports mapped to 2017 international criteria.
+* **Stack:** `Flutter` · `Dart` · `drift / SQLite` · `Streamlit` · `REST API`
 
-### 🎓 Research Interests
-- NLP for language learning & educational technologies  
-- Text readability and complexity modelling  
-- Multilingual NLP  
-- Hispanic linguistics & computational methods
+### 🌏 [CKJ-ESP & Tone Stamp — Comparative Linguistic Bridges](https://ckj-esp.netlify.app)(https://tonestamp.netlify.app)
+* **What it is:** A Spanish-first comparative dictionary connecting **Mandarin (Taiwan), Korean, and Japanese**, paired with a visual character tone-mapping tool and interactive TOCFL flashcard engine.
+* **Stack:** `JavaScript` · `HTML5 / CSS3` · `Open Linguistic Data (TOCFL, KRDICT, JMdict)`
 
-## 🤝 Collaboration & Opportunities  
-Open to collaborating on open-source NLP/linguistics projects, especially those involving language learning or teaching.  
-Feel free to reach out via email.
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poln4&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poln4&layout=compact)
+## 🛠️ Technical Stack & Research Tooling
+
+```
+Languages:       Python, Dart (Flutter), JavaScript, C (DSA / Harvard CS50x), HTML5/CSS3
+AI & NLP:        Transformers (BERT/BETO/BERTIN), CatBoost, Scikit-learn, spaCy, NLTK, SHAP
+Engineering:     Local-First SQLite (drift), PyTest, Streamlit, Git/GitHub, REST APIs
+Linguistics:     Computational Syntax, Psycholinguistic Norms, CEFR/TOCFL Benchmarking, MTPE
+Spoken:          Spanish (Native), English (Fluent / C2), Mandarin (Intermediate), Korean (Elementary)
+```
+
+---
+
+## 📊 About Me & Background
+* 🎓 **Ph.D. Candidate** in Digital Learning & Education (Applied NLP) at **NTUST (Taipei)** · Expected Jun 2027
+* 🎓 **M.A.** in Applied Foreign Languages (**NTUST**, 2022)
+* 🎓 **B.Ed. & B.A.** from **Pontificia Universidad Católica de Chile** (2017)
+* 📜 **Certifications:** Harvard CS50x, CS50P (Python), CS50W (Web Development)
+* 🤝 Open to research collaborations, AI/NLP internships, and developer roles in EdTech and HealthTech.
