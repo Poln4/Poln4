@@ -4,7 +4,7 @@
 
 > **"Making the invisible legible"** — I build privacy-first digital health platforms and applied NLP architectures that translate complex, unseen systems into human-relatable insights. Every tool here was architected, coded, tested, and shipped solo.
 
-🌐 **Portfolio & Live Demos:** [paulinavl.netlify.app](https://paulinavl.netlify.app)  
+🌐 **Portfolio & Live Demos:** [paulinavl.com](https://paulinavl.com)  
 📫 **Contact:** [paulinavl@icloud.com](mailto:paulinavl@icloud.com) · [LinkedIn](https://linkedin.com/in/paulinavl)
 
 ---
